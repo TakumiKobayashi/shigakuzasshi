@@ -1,7 +1,8 @@
 # coding: utf-8
 
 """
-データ加工の部分の処理を共通化して
+データ加工の部分の処理を共通化
+詳細についてはGoogle Spreadsheetを参照(CiNii articles/Books統合計画)
 """
 
 import json

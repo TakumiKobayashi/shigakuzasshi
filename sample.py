@@ -1,4 +1,5 @@
 # classを使ってJSONファイルを処理してみる
+# 本ファイルはCiNii.pyで作成したクラス操作のテスト用
 
 from CiNii import CiNii
 import json
