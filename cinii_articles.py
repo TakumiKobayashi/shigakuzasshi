@@ -11,6 +11,7 @@ import json
 import oauth2client.client
 from typing import Any
 from time import sleep
+import csv
 
 # APIを用いて、google spreadsheetからISSNのリストを作成
 json_key = json.load(open('Project-4f8513313c78.json'))
